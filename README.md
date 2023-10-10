@@ -2,13 +2,9 @@
 <a href="https://www.buymeacoffee.com/savva20040y" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### Я Front-end разработчик из России 🇷🇺
-### Я Front-end разработчик из России 🇷🇺
-### Учусь на 3 курсе ИТМО 🇷🇺
-
-``` Ruby
-class MyClass
-end
-```
+### Выпускник Яндекс.Практикум
+### Учусь на 3 курсе ИТМО
+### 19 лет
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
