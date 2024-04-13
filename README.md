@@ -10,7 +10,8 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![Codewars](https://github.r2v.ch/codewars?user=SporyshevSavelii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+[![Codewars](https://github.r2v.ch/codewars?user=SporyshevSavelii&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/PidmurniakTaisiia/badges/large
+)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
